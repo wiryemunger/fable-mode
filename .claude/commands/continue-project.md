@@ -6,6 +6,8 @@ Resume work on this project.
 
 1. Read `.fable/state/SNAPSHOT.md` and `.fable/state/HANDOFF.md` if they
    exist. If neither exists, say so and ask what to work on — do not guess.
+   If the snapshot is marked `Status: COMPLETE`, the recorded work is
+   finished — report that and ask for the new task instead of resuming.
 2. Check the state files against reality: git status, recent changes.
    If the repository has drifted from what the snapshot describes, report
    the drift before continuing.

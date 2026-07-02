@@ -12,8 +12,9 @@ Close out the current work. Completion is earned, not declared.
    results, including failures.
 4. **Review.** Run the `code-reviewer` agent on the changed files. Fix
    BLOCKER and MAJOR findings; list the rest.
-5. **Persist state.** Update `.fable/state/SNAPSHOT.md`; write
-   `.fable/state/HANDOFF.md` if work remains.
+5. **Persist state.** Update `.fable/state/SNAPSHOT.md` — set `Status:
+   COMPLETE` when nothing remains, so a future session does not resume
+   finished work. Write `.fable/state/HANDOFF.md` if work remains.
 6. **Report honestly:** what changed (files), how it was verified, what
    remains, which risks are known. If verification is incomplete, the
    status is "implemented, not fully verified" — never "done".

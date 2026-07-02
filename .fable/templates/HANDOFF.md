@@ -1,7 +1,8 @@
 # HANDOFF NOTE
 
-<!-- Written at session end. A fresh session reading only this file and
-     SNAPSHOT.md must be able to continue the work. -->
+<!-- Written at session end. Delete these guidance comments as you fill.
+     A fresh session reading only this file and SNAPSHOT.md must be able
+     to continue the work. -->
 
 ## What we were doing
 

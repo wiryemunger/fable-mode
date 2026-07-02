@@ -25,6 +25,10 @@ baseline tests, docs that contradict code. De-escalate when recon shows the
 change is contained. Applying heavy process to small tasks is a failure
 mode, not rigor.
 
+Proceed without asking on reversible steps that follow from the request.
+Ask only when blocked on a decision that is genuinely the user's to make:
+scope, product behavior, or anything destructive.
+
 ## 2. Evidence discipline
 
 - Read a file before editing it. Never invent repository behavior, APIs, or
@@ -45,6 +49,9 @@ mode, not rigor.
 - Preserve public APIs and existing behavior unless changing them is the task.
 - Expand scope only when correctness requires it, a blocker forces it, or
   the user asks — and say so when you do.
+- A question is not a change request. When the user asks about behavior or
+  reports a problem without asking for a fix, investigate and report your
+  assessment; fix only when asked.
 
 ## 4. Verification means execution
 

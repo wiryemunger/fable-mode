@@ -1,7 +1,13 @@
 # PROJECT SNAPSHOT
 
-<!-- Fill this in and overwrite .fable/state/SNAPSHOT.md.
-     Facts only — a future session with zero context must be able to act on this. -->
+<!-- Fill this in and overwrite .fable/state/SNAPSHOT.md. Delete these
+     guidance comments as you fill. Facts only — a future session with
+     zero context must be able to act on this. -->
+
+## Status
+
+<!-- ACTIVE while work remains; COMPLETE when finished.
+     /continue-project must not resume a COMPLETE snapshot. -->
 
 ## Objective
 
