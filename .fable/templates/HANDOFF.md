@@ -1,14 +1,9 @@
 # HANDOFF NOTE
 
 <!-- Written at session end. Delete these guidance comments as you fill.
-     A fresh session reading only this file and SNAPSHOT.md must be able
-     to continue the work. -->
-
-## What we were doing
-
-## Where it stands
-
-<!-- Completed vs remaining, at a glance. -->
+     Facts about work state (done / remaining / next action) live in
+     SNAPSHOT.md — never duplicate them here. This file carries only what
+     the snapshot cannot. -->
 
 ## Context a fresh session needs
 
@@ -21,6 +16,6 @@
 
 ## Known failures / dead ends
 
-<!-- What was tried and did not work, so it is not retried. -->
-
-## Recommended first action
+<!-- What was tried and did not work, so it is not retried. Cumulative:
+     carry entries forward from the previous handoff when overwriting —
+     these must never be lost. -->

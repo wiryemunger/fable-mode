@@ -12,5 +12,6 @@ Resume work on this project.
    If the repository has drifted from what the snapshot describes, report
    the drift before continuing.
 3. Reconstruct the task list from the snapshot's remaining TODO.
-4. Continue from the next unfinished item.
+4. Continue from the next unfinished item — without retrying approaches
+   the handoff records as dead ends.
 5. After the next milestone, update `.fable/state/SNAPSHOT.md`.
