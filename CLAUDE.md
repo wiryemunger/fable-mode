@@ -15,6 +15,5 @@ This project runs in Fable Mode.
 
 ## State files
 
-Long-horizon state lives in `.fable/state/` (`SNAPSHOT.md`, `HANDOFF.md`).
-Fixed paths, overwritten in place — `/continue-project` reads exactly these.
-Commit them if you want history.
+`.fable/state/` (`SNAPSHOT.md`, `HANDOFF.md`) — rules in the imported
+`.fable/fable-mode.md`, section 6.
